@@ -1,0 +1,6 @@
+{
+  "name": "NexusRisk",
+  "description": "Supply Chain GRC & Demand Analytics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
